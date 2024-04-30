@@ -1,8 +1,4 @@
-# SpaceBar Insights Nexus-RPT001
-
-
-_[Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00ZjUyLTkxNjctYmFmMzYwNDE2MjEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
-
+# SpaceBar Insights Nexus-_[Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00ZjUyLTkxNjctYmFmMzYwNDE2MjEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 - **Project objective:** 
 
