@@ -2,8 +2,9 @@
 _[LIVE Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00ZjUyLTkxNjctYmFmMzYwNDE2MjEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 - **Why this Report ?** 
-  -This report is built for various usecases mentioned below for the FY-2019, 2020, 2021 and 2022. 
-    **1.** 
+-This report is built in effort to find answers for the below mentioned questions for the enterprise level data of FY-2019, 2020, 2021 and 2022. 
+
+    **1.** Which items are selling and which are not? Answering this will help optimize inventory levels and ensure popular items are always in-stock while minimizing excess inventory of slow-moving items
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
