@@ -9,6 +9,9 @@ _[LIVE Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00Z
 
 - **Are there any patterns in customer behavior that can be leveraged?**
    - Markers such as purchase history, market demographics and shopping behaviour can be applied in tailoring marketing campaigns and promotions to specific customer segments, improving their effectiveness.
+ 
+- **What are our revenue trends over time?**
+   - Comparing revenue figures over time (ex. year-over-year) helps the leadership in understanding impact of seasonality, marketing campaign and otger factors over product categories, customer segments, geographical regions, or sales channels. 
 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
