@@ -32,6 +32,6 @@ _[LIVE Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00Z
 - [x]	Validated the key business/performance indicators using SQL and Excel for data correctness.
 
 
-# Let us Connect !
+## Let us Connect !
 ![contact](https://github.com/analytic-space/SpaceBar-Insights-Nexus/assets/163823882/1c46f8c9-07b9-478c-bb0a-b98824c213cb)
 
