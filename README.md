@@ -30,3 +30,8 @@ _[LIVE Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00Z
 - [x]	Augmented report interactivity using PowerBI features like dynamic visual switch, tooltip, dynamic slicer filter etc.
 - [x]	Optimized Performance and Memory using DAX studio which significantly impacted the data retrieval and rendering.
 - [x]	Validated the key business/performance indicators using SQL and Excel for data correctness.
+
+
+# Let us Connect !
+![contact](https://github.com/analytic-space/SpaceBar-Insights-Nexus/assets/163823882/1c46f8c9-07b9-478c-bb0a-b98824c213cb)
+
