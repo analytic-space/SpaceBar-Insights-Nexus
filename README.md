@@ -22,16 +22,11 @@ _[LIVE Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00Z
 - **How can we optimize our supply chain management?**
    - Identifying key indicators across the supply chain, including raw materials, work-in-progress, and finished goods. This helps in optimizing inventory levels, reducing carrying costs, and minimizing stockouts.  
 
-## Technicality :
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+## Technicalities Used :
+- [x]	Integrated multiple data sources (CSV, MySQL db) into a single-source-of-truth data model.
+- [x]	Data Cleaning and Transformation using Power Query (ETL).
+- [x]	Exetensively used DAX expression to derive date table, fiscal months and quarters.
+- [x]	Incorporated supplementary data into an existing data model without breaking the established data integrity.
+- [x]	Augmented report interactivity using PowerBI features like dynamic visual switch, tooltip, dynamic slicer filter etc.
+- [x]	Optimized Performance and Memory using DAX studio which significantly impacted the data retrieval and rendering.
+- [x]	Validated the key business/performance indicators using SQL and Excel for data correctness.
