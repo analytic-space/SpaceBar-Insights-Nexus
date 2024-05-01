@@ -1,7 +1,7 @@
 # SpaceBar Insights Nexus- RPT001
 _[LIVE Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00ZjUyLTkxNjctYmFmMzYwNDE2MjEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
-![Image Alt text](/banner.png)
+![banner](https://github.com/analytic-space/SpaceBar-Insights-Nexus/assets/163823882/65eb3b46-b03a-46cd-85b7-47470ee0625a)
 
 - **Why this Report ?** 
    - This report is built in effort to find answers for the below mentioned questions for the enterprise level data of FY-2019, 2020, 2021 and 2022. 
