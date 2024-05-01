@@ -1,7 +1,7 @@
 # SpaceBar Insights Nexus- RPT001
 _[LIVE Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00ZjUyLTkxNjctYmFmMzYwNDE2MjEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
-- **Project objective:** 
+- **Why this Report ?** 
 
     **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
 
