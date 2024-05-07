@@ -11,16 +11,16 @@ _[LIVE Report Link](https://app.powerbi.com/view?r=eyJrIjoiNTNlYjkyZmQtNTUyNy00Z
   <img src="https://github.com/analytic-space/SpaceBar-Insights-Nexus/assets/163823882/75ac5529-d363-4b96-a7f9-72a4279556f0"/>
 </p>
 
-- **Which products are selling and which are not?**
+1. **Which products are selling and which are not?**
    - Answering this will help optimize inventory levels and ensure popular items are always in-stock while minimizing excess inventory of slow-moving items.
 
-- **Are there any patterns in customer behavior that can be leveraged?**
+2. **Are there any patterns in customer behavior that can be leveraged?**
    - Markers such as purchase history, market demographics and shopping behaviour can be applied in tailoring marketing campaigns and promotions to specific customer segments, improving their effectiveness.
  
-- **What are our revenue trends over time?**
+3. **What are our revenue trends over time?**
    - Comparing revenue figures over time (ex. year-over-year) helps the leadership in understanding impact of seasonality, marketing campaign and other factors over product categories, customer segments, geographical regions, or sales channels.
  
-- **How can we optimize our supply chain management?**
+4. **How can we optimize our supply chain management?**
    - Identifying key indicators across the supply chain, including raw materials, work-in-progress, and finished goods. This helps in optimizing inventory levels, reducing carrying costs, and minimizing stockouts.  
 
 ## Technicalities Used :
